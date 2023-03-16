@@ -2,7 +2,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=losparviero&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=losparviero&show_icons=true&theme=transparent&hide=contribs)
  
 
 <!--
