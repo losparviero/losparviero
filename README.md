@@ -7,6 +7,12 @@ Aspiring programmer with a passion for learning. Currently exploring Node.js and
 1. [grammYAccess](https://github.com/losparviero/grammyAccess) - An access control middleware/plugin for grammY.
 2. [grammYLog](https://github.com/losparviero/grammYLog) - Logging plugin to log received messages.
 
+#### NPM Packages
+
+1. [streamtape](https://www.npmjs.com/package/streamtape) - Node API wrapper for Streamtape.
+2. [streamtape-dl](https://www.npmjs.com/package/streamtape-dl) - Download Streamtape videos through the CLI.
+3. [downbot](https://www.npmjs.com/package/downbot) - Indicate your users of downtime in Telegram!
+
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=losparviero&show_icons=true&theme=transparent&hide=contribs)
