@@ -9,10 +9,11 @@ Aspiring programmer with a passion for learning. Currently exploring Node.js and
 
 #### NPM Packages
 
-1. [stock-oracle](https://www.npmjs.com/package/stock-oracle) - Predict stock prices using neural networks trained on historical price data.
-2. [downbot](https://www.npmjs.com/package/downbot) - Indicate your users of downtime in Telegram.
-3. [streamtape](https://www.npmjs.com/package/streamtape) - Node API wrapper for Streamtape.
-4. [streamtape-dl](https://www.npmjs.com/package/streamtape-dl) - Download Streamtape videos through the CLI.
+1. [vellin](https://www.npmjs.com/package/vellin) - Manage your secrets and use them everywhere! Replace your .env files.
+2. [stock-oracle](https://www.npmjs.com/package/stock-oracle) - Predict stock prices using neural networks trained on historical price data.
+3. [downbot](https://www.npmjs.com/package/downbot) - Indicate your users of downtime in Telegram.
+4. [streamtape](https://www.npmjs.com/package/streamtape) - Node API wrapper for Streamtape.
+5. [streamtape-dl](https://www.npmjs.com/package/streamtape-dl) - Download Streamtape videos through the CLI.
 
 <br>
 
